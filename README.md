@@ -24,11 +24,15 @@
 <hr>
 <h3>3. Advanced Topics</h3>
 <hr>
+<ul>
 <li>Heap / Priority Queue</li>
 <li>Graphs</li>
+  </ul>
 <hr>
 <h3>4. Bonus / Optional Advanced Topics</h3>
 <hr>
+<ul>
 <li>Tries</li>
 <li>Disjoint Set Union (DSU / Union-Find)</li>
 <li>Segment Tree / Fenwick Tree</li>
+</ul>
