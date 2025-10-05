@@ -1,5 +1,6 @@
 # Java-DSA-Practice_Solutions
 ✅ What to focus on now
+<hr>
 <h3>1. Basics / Foundations</h3>
 <hr>
 <ul>
@@ -17,7 +18,7 @@
 
 <li>Linked List (Singly, Doubly, Circular)</li>
 </ul>
-
+<hr>
 <h3>2. Intermediate / Trees + Recursion</h3>
 <hr>
 <ul>
@@ -27,14 +28,14 @@
 
 <li>Binary Search Tree</li>
 </ul>
-
+<hr>
 <h3>3. Advanced Topics</h3>
 <hr>
 
 <li>Heap / Priority Queue</li>
 
 <li>Graphs</li>
-
+<hr>
 <h3>4. Bonus / Optional Advanced Topics</h3>
 <hr>
 
