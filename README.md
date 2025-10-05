@@ -1,39 +1,42 @@
 # Java-DSA-Practice_Solutions
 ✅ What to focus on now
-1. Basics / Foundations
+<h3>1. Basics / Foundations</h3>
+<hr>
+<ul>
+<li>Arrays</li>
 
-Arrays
+<li>Strings</li>
 
-Strings
+<li>ArrayList / Dynamic Array</li>
 
-ArrayList / Dynamic Array
+<li>HashMap / HashSet</li>
 
-HashMap / HashSet
+<li>Stack</li>
 
-Stack
+<li>Queue</li>
 
-Queue
+<li>Linked List (Singly, Doubly, Circular)</li>
+</ul>
 
-Linked List (Singly, Doubly, Circular)
+<h3>2. Intermediate / Trees + Recursion</h3>
+<ul>
+<li>Recursion </li>
 
-2. Intermediate / Trees + Recursion
+<li>Binary Tree</li>
 
-Recursion (make sure you are confident)
+<li>Binary Search Tree</li>
+</ul>
 
-Binary Tree
+<h3>3. Advanced Topics</h3>
 
-Binary Search Tree
+<li>Heap / Priority Queue</li>
 
-3. Advanced Topics
+<li>Graphs</li>
 
-Heap / Priority Queue
+<h3>4. Bonus / Optional Advanced Topics</h3>
 
-Graphs
+<li>Tries</li>
 
-4. Bonus / Optional Advanced Topics
+<li>Disjoint Set Union (DSU / Union-Find)</li>
 
-Tries
-
-Disjoint Set Union (DSU / Union-Find)
-
-Segment Tree / Fenwick Tree
+<li>Segment Tree / Fenwick Tree</li>
