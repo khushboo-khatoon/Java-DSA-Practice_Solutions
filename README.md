@@ -19,6 +19,7 @@
 </ul>
 
 <h3>2. Intermediate / Trees + Recursion</h3>
+<hr>
 <ul>
 <li>Recursion </li>
 
@@ -28,12 +29,14 @@
 </ul>
 
 <h3>3. Advanced Topics</h3>
+<hr>
 
 <li>Heap / Priority Queue</li>
 
 <li>Graphs</li>
 
 <h3>4. Bonus / Optional Advanced Topics</h3>
+<hr>
 
 <li>Tries</li>
 
