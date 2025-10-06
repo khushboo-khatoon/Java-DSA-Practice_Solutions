@@ -3,7 +3,6 @@ package Arrays;
 public class SecLargestElem {
 
    public int getSecondLargest(int[] arr) {
-        // code here
         int max=arr[0];
         int secmax=Integer.MIN_VALUE;
         for(int i=0;i<arr.length;i++){
