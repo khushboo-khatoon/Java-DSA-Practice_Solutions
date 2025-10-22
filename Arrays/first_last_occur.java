@@ -1,3 +1,5 @@
+first & last occurrence of a element in array | Time Complexity:  O(n)   | Space Complexity: O(1)
+      
 import java.util.ArrayList;
 
 public class first_last_occur {
