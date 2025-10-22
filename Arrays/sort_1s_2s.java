@@ -1,4 +1,5 @@
-
+// Time Complexity:  O(n)
+// Space Complexity: O(1)
 public class sort_1s_2s {
      public void sort012(int[] arr) {
         int num1=0,num2=0,num3=0;
