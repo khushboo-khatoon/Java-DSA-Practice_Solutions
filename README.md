@@ -66,12 +66,9 @@ Dive into specialized and competitive programming structures:
 
 ## Author
 **khushboo khatoon**  
-Learning Java DSA step-by-step ☕  
 
----
----
+-💬Follow me on **[GeeksforGeeks]**(https://www.geeksforgeeks.org/user/khushbooj3hr/) 
 
-💬Follow me on [GeeksforGeeks](https://www.geeksforgeeks.org/user/khushbooj3hr/) 
-💬 Connect on [LinkedIn](https://www.linkedin.com/in/khushboo-khatoon-/) or [GitHub Issues](#)
+-💬 Connect on **[LinkedIn]**(https://www.linkedin.com/in/khushboo-khatoon-/) 
 
 
