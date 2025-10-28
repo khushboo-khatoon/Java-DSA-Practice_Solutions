@@ -5,7 +5,7 @@ This roadmap tracks my progress from beginner to advanced level in DSA.
 
 ---
 
-## ✅ 1. Basics / Foundations
+## 1. Basics / Foundations
 Build a strong base with fundamental data structures:
 - Arrays  
 - Strings  
@@ -20,7 +20,7 @@ Build a strong base with fundamental data structures:
 
 ---
 
-## 🌱 2. Intermediate Level
+## 2. Intermediate Level
 Strengthen problem-solving and learn tree-based concepts:
 - Recursion  
 - Backtracking  
@@ -29,7 +29,7 @@ Strengthen problem-solving and learn tree-based concepts:
 
 ---
 
-## ⚙️ 3. Advanced Topics
+## 3. Advanced Topics
 Master higher-level DSA concepts used in interviews:
 - Heap / Priority Queue  
 - Graphs  
@@ -38,7 +38,7 @@ Master higher-level DSA concepts used in interviews:
 
 ---
 
-## 🧠 4. Bonus / Optional Advanced Topics
+## 4. Bonus / Optional Advanced Topics
 Dive into specialized and competitive programming structures:
 - Tries  
 - Disjoint Set Union (DSU / Union-Find)  
@@ -47,7 +47,7 @@ Dive into specialized and competitive programming structures:
 
 ---
 
-## 🎯 Goal
+## Goal
 - Strengthen understanding of **core Data Structures in Java**  
 - Solve topic-wise problems consistently  
 - Prepare efficiently for **coding interviews and placements**  
@@ -60,7 +60,7 @@ Dive into specialized and competitive programming structures:
 
 ---
 
-## 👩‍💻 Author
+## Author
 **khushboo khatoon**  
 Learning Java DSA step-by-step ☕  
 
