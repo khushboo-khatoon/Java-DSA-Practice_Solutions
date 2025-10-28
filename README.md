@@ -1,38 +1,66 @@
-# Java-DSA-Practice_Solutions
-<br>
-✅ What to focus on now
-<hr>
-<h3>1. Basics / Foundations</h3>
-<hr>
-<ul>
-<li>Arrays</li>
-<li>Strings</li>
-<li>ArrayList / Dynamic Array</li>
-<li>HashMap / HashSet</li>
-<li>Stack</li>
-<li>Queue</li>
-<li>Linked List (Singly, Doubly, Circular)</li>
-</ul>
-<hr>
-<h3>2. Intermediate / Trees + Recursion</h3>
-<hr>
-<ul>
-<li>Recursion </li>
-<li>Binary Tree</li>
-<li>Binary Search Tree</li>
-</ul>
-<hr>
-<h3>3. Advanced Topics</h3>
-<hr>
-<ul>
-<li>Heap / Priority Queue</li>
-<li>Graphs</li>
-  </ul>
-<hr>
-<h3>4. Bonus / Optional Advanced Topics</h3>
-<hr>
-<ul>
-<li>Tries</li>
-<li>Disjoint Set Union (DSU / Union-Find)</li>
-<li>Segment Tree / Fenwick Tree</li>
-</ul>
+# Java DSA Practice Solutions
+
+Welcome to my **Java DSA Practice Repository** — a collection of Data Structure and Algorithm solutions written in **Java**.  
+This roadmap tracks my progress from beginner to advanced level in DSA.
+
+---
+
+## ✅ 1. Basics / Foundations
+Build a strong base with fundamental data structures:
+- Arrays  
+- Strings  
+- ArrayList / Dynamic Array  
+- HashMap / HashSet  
+- Stack  
+- Queue  
+- Linked List  
+  - Singly Linked List  
+  - Doubly Linked List  
+  - Circular Linked List  
+
+---
+
+## 🌱 2. Intermediate Level
+Strengthen problem-solving and learn tree-based concepts:
+- Recursion  
+- Backtracking  
+- Binary Tree  
+- Binary Search Tree (BST)  
+
+---
+
+## ⚙️ 3. Advanced Topics
+Master higher-level DSA concepts used in interviews:
+- Heap / Priority Queue  
+- Graphs  
+- Greedy Algorithms  
+- Dynamic Programming (DP)  
+
+---
+
+## 🧠 4. Bonus / Optional Advanced Topics
+Dive into specialized and competitive programming structures:
+- Tries  
+- Disjoint Set Union (DSU / Union-Find)  
+- Segment Tree  
+- Fenwick Tree (Binary Indexed Tree)  
+
+---
+
+## 🎯 Goal
+- Strengthen understanding of **core Data Structures in Java**  
+- Solve topic-wise problems consistently  
+- Prepare efficiently for **coding interviews and placements**  
+
+---
+
+## 📂 Repository Includes
+- Topic-wise Java files   
+- Practice problems from **GeeksforGeeks**, **LeetCode**  
+
+---
+
+## 👩‍💻 Author
+**khushboo khatoon**  
+Learning Java DSA step-by-step ☕  
+
