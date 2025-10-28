@@ -63,9 +63,9 @@ Dive into specialized and competitive programming structures:
 - Topic-wise Java files   
 - Practice problems from **GeeksforGeeks**, **LeetCode**  
 
----
 
 ## Author
 **khushboo khatoon**  
 Learning Java DSA step-by-step ☕  
+---
 
