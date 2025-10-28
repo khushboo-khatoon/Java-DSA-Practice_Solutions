@@ -20,8 +20,6 @@ Build a strong base with fundamental data structures:
   - Doubly Linked List  
   - Circular Linked List  
 
----
-
 
 
 ## 2. Intermediate Level
@@ -31,7 +29,6 @@ Strengthen problem-solving and learn tree-based concepts:
 - Binary Tree  
 - Binary Search Tree (BST)  
 
----
 
 ## 3. Advanced Topics
 Master higher-level DSA concepts used in interviews:
@@ -40,7 +37,7 @@ Master higher-level DSA concepts used in interviews:
 - Greedy Algorithms  
 - Dynamic Programming (DP)  
 
----
+
 
 
 
@@ -51,7 +48,6 @@ Dive into specialized and competitive programming structures:
 - Segment Tree  
 - Fenwick Tree (Binary Indexed Tree)  
 
----
 
 
 
@@ -60,7 +56,6 @@ Dive into specialized and competitive programming structures:
 - Solve topic-wise problems consistently  
 - Prepare efficiently for **coding interviews and placements**  
 
----
 
 
 
