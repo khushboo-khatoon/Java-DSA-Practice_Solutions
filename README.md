@@ -5,6 +5,8 @@ This roadmap tracks my progress from beginner to advanced level in DSA.
 
 ---
 
+
+
 ## 1. Basics / Foundations
 Build a strong base with fundamental data structures:
 - Arrays  
@@ -19,6 +21,8 @@ Build a strong base with fundamental data structures:
   - Circular Linked List  
 
 ---
+
+
 
 ## 2. Intermediate Level
 Strengthen problem-solving and learn tree-based concepts:
@@ -38,6 +42,8 @@ Master higher-level DSA concepts used in interviews:
 
 ---
 
+
+
 ## 4. Bonus / Optional Advanced Topics
 Dive into specialized and competitive programming structures:
 - Tries  
@@ -47,12 +53,16 @@ Dive into specialized and competitive programming structures:
 
 ---
 
+
+
 ## Goal
 - Strengthen understanding of **core Data Structures in Java**  
 - Solve topic-wise problems consistently  
 - Prepare efficiently for **coding interviews and placements**  
 
 ---
+
+
 
 ## 📂 Repository Includes
 - Topic-wise Java files   
