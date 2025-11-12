@@ -1,3 +1,4 @@
+Time Complexity = O(n)  |  Space Complexity = O(n)
 package Arrays;
 public class reverse_arr {
     public static void main(String[] args) {
