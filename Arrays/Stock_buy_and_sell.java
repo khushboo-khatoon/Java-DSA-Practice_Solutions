@@ -1,4 +1,5 @@
-Time Complexity: O(n)  | Time Complexity = O(n)
+package Arrays;
+// Time Complexity: O(n)  | Time Complexity = O(n)
 public class Stock_buy_and_sell {
      int stockBuySell(int arr[]) {
         

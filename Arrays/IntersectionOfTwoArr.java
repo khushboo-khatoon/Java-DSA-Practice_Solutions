@@ -1,3 +1,4 @@
+package Arrays;
 // Java program to find the intersection of two arrays | Time Complexity: O(n + m) | Space Complexity: O(min(n, m))
 import java.util.ArrayList;
 import java.util.Set;

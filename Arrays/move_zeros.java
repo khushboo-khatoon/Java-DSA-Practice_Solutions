@@ -1,6 +1,7 @@
-// Move all zeros to the end of the array | Time Complexity: O(n) | Space Complexity: O(1)
 
 package Arrays;
+
+// Move all zeros to the end of the array | Time Complexity: O(n) | Space Complexity: O(1)
 
 public class move_zeros {
     public static void moveZeros(int[] arr) {

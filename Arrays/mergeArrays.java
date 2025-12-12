@@ -1,4 +1,5 @@
-    import java.util.Arrays;
+   package Arrays;
+   import java.util.Arrays;
 public class mergeArrays {
 
     public void mergeArrays(int a[], int b[]) {

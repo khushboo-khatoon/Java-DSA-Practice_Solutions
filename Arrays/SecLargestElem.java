@@ -1,6 +1,3 @@
-//find second largest element in the array  | Time Complexity = O(n) | Space Complexity = O(1) 
-
-
 package Arrays;
 
 public class SecLargestElem {

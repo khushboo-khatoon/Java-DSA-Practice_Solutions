@@ -1,4 +1,5 @@
 package Arrays;
+// Left rotate an array | Time Complexity: O(N) | Space Complexity: O(1
 
 public class left_rotate {
     public static void main(String[] args) {

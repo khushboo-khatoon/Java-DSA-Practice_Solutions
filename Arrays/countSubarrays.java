@@ -1,5 +1,4 @@
-// subarrays where the maximum element is greater than k | time complexity:O(n) | space complexity:O(1)
-
+package Arrays;
 public class countSubarrays {
       long countSubarray(int arr[], int n, int k) {
 

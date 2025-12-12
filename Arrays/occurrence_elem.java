@@ -1,3 +1,5 @@
+
+package Arrays;
 // occurrence of a element in array | Time Complexity:  O(n) | Space Complexity: O(1)
 public class occurrence_elem {
       int countFreq(int[] arr, int target) {

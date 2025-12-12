@@ -1,9 +1,7 @@
-// remove duplicate from sorted array  | Time Complexity: O(N) | Space Complexity: O(N)
-
 
 package Arrays;
+// remove duplicate from sorted array  | Time Complexity: O(N) | Space Complexity: O(N)
 
-import java.util.*;
 import java.util.ArrayList;
 
 public class remove_duplicate {
