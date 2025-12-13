@@ -1,3 +1,5 @@
+
+// time Complexity = O(n log n) ||  Space Complexity = O(n)
 package Arrays;
 
 public class mergeSort {
@@ -11,7 +13,7 @@ public class mergeSort {
             
             merge_sort(arr,l,mid);// divide left sublist
             
-            merge_sort(arr,mid+1,r); //devide right sublist 
+            merge_sort(arr,mid+1,r); //divide right sublist 
             
             merge(arr,l,mid,r);//merging 
             
