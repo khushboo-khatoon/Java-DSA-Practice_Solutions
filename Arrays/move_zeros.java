@@ -1,5 +1,4 @@
 
-package Arrays;
 
 // Move all zeros to the end of the array | Time Complexity: O(n) | Space Complexity: O(1)
 

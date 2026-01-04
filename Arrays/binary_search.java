@@ -1,4 +1,4 @@
-    package Arrays;
+
 // binary search to find first occurrence of an element in array | Time Complexity: O(log N) | Space Complexity: O(1)
 
 import java.util.Arrays;

@@ -1,4 +1,4 @@
-package Arrays;
+
 public class countSubarrays {
       long countSubarray(int arr[], int n, int k) {
 

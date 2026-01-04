@@ -1,4 +1,4 @@
-package Arrays; 
+
 public class productExceptSelf {
       public static int[] productExcept_Self(int arr[]) {
              int[] result=new int[arr.length];

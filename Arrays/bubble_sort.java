@@ -1,4 +1,4 @@
-package Arrays;
+
 // Bubble Sort Algorithm | Time Complexity: O(N^2) | Space Complexity: O(
 public class bubble_sort {
        public void bubbleSort(int[] arr) {

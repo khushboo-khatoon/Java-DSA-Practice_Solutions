@@ -1,5 +1,4 @@
 // pascal's triangle ||  time complexity: O(n) || space complexity: O(n)    
-package Arrays;
 
 import java.util.ArrayList;
 

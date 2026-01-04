@@ -1,4 +1,4 @@
-package Arrays;
+
 // Insertion Sort Algorithm | Time Complexity: O(N^2) | Space Complexity: O(1)
 public class insertionSort {
      public void insertion(int arr[]) {

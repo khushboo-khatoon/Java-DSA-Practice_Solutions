@@ -1,7 +1,5 @@
 // Find if there exists a pair with sum equal to given target in an array | Time Complexity: O(N log N) | Space Complexity: O(1)
 
-package Arrays;
-
 import java.util.Arrays;
 
 public class PairSum {

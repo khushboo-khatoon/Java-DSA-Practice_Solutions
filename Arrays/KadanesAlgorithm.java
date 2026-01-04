@@ -1,5 +1,4 @@
 //  Time Complexity of Kadane’s Algorithm: O(n)  | Space Complexity: O(1)
-package Arrays;
 public class KadanesAlgorithm {
     // Kadane's Algorithm
     public static int findMaxSubarraySum(int[] arr) {

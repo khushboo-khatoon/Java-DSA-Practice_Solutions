@@ -1,5 +1,5 @@
 // Java program to set matrix zeros | Time Complexity: O(n*m) | Space Complexity: O(n + m)
-package Arrays;
+
 
 import java.util.HashSet;
 

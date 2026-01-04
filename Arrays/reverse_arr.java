@@ -1,9 +1,4 @@
-<<<<<<< HEAD
 
-=======
-Time Complexity = O(n)  |  Space Complexity = O(n)
->>>>>>> e4fbb32265fbbbf5186831d4211b5914d9c0540b
-package Arrays;
 // Reverse an array | Time Complexity: O(N) | Space Complexity: O(1)
 public class reverse_arr {
     public static void main(String[] args) {

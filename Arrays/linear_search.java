@@ -1,5 +1,4 @@
 
-package Arrays;
 // search an element in array | Time Complexity: O(N) | Space Complexity: O(1)
 
 public class linear_search {

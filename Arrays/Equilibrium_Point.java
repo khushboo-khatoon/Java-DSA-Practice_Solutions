@@ -1,4 +1,4 @@
-package Arrays;
+
 // Equilibrium Point in an array  | Time Complexity: O(n) | Space Complexity: O(1)
 
 public class Equilibrium_Point {

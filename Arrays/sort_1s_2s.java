@@ -1,4 +1,4 @@
-package Arrays;
+
 // sort 0s 1s and 2s in an array
 // Time Complexity:  O(n)
 // Space Complexity: O(1)

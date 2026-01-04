@@ -1,5 +1,4 @@
 // Java program to find the maximum water that can be contained | Time Complexity: O(n) | Space Complexity: O(1)
-package Arrays;
 
 public class ContainerwithMostWater {
     class Solution {
