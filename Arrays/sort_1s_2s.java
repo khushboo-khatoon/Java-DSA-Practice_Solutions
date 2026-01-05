@@ -1,5 +1,5 @@
 
-// sort 0s 1s and 2s in an array
+// sort 0s 1s and 2s in an array by the counting  times of 0,1,2
 // Time Complexity:  O(n)
 // Space Complexity: O(1)
 public class sort_1s_2s {
