@@ -22,7 +22,7 @@ public class mejority_element {
     public static void main(String[] args) {
         int[] arr={1,2,3,4,2,2,2};
         int ans=majorityElement(arr);
-        System.out.println("the mazority element greater then n/2 is "+ans );
+        System.out.println("the majority element greater then n/2 is "+ans );
     }
     
 }
