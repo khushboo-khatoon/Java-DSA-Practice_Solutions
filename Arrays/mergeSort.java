@@ -1,9 +1,6 @@
 
-<<<<<<< HEAD
-=======
 // time Complexity = O(n log n) ||  Space Complexity = O(n)
-package Arrays;
->>>>>>> fc2bb2a60290aebb18908ecf58e9c64c19bf99a3
+
 
 public class mergeSort {
 
