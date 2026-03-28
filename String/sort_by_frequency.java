@@ -26,7 +26,7 @@ return sb.toString();
     }
 
     public static void main(String[] args) {
-        SortByFrequency obj = new SortByFrequency();
+        sort_by_frequency obj = new sort_by_frequency();
         String s = "tree";
         String result = obj.frequencySort(s);
         System.out.println("Sorted string by frequency: " + result); // Output: "eert" or "eetr"
