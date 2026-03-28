@@ -1,8 +1,8 @@
-
+package String;
 
 import java.util.HashMap;
 import java.util.PriorityQueue; 
-class SortByFrequency {
+class sort_by_frequency {
     public String frequencySort(String s) {
   HashMap<Character,Integer> map=new HashMap<>();
 
