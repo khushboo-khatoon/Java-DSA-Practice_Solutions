@@ -61,7 +61,7 @@ Dive into specialized and competitive programming structures:
 
 ## 📂 Repository Includes
 - Topic-wise Java files   
-- Practice problems from **GeeksforGeeks**, **LeetCode**  , Stiver's a2z Sheet 
+- Practice problems from **gfg**, **LeetCode**  , Stiver's a2z Sheet 
 
 
 ## Author
