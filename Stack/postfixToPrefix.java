@@ -1,6 +1,6 @@
 // Convert postfix to prefix expression | Time Complexity: O(n²) | Space Complexity: O(n)
 
-package Stack;
+
 
 import java.util.Stack;
 

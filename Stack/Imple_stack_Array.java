@@ -1,4 +1,4 @@
-package Stack;
+
 public class Imple_stack_Array {
 
     int[] arr;
